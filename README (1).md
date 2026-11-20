@@ -169,8 +169,7 @@ to open, run and study.
 
 ## Author
 
-**Student:** \[Add your name\]\
-**Course/Assessment:** \[Add course and assessment details\]
+**Student:** \Rudransh\
 
 ------------------------------------------------------------------------
 
